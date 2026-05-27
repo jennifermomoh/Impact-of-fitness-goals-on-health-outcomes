@@ -1,0 +1,101 @@
+participant_id,age,gender,height_m,baseline_weight_kg,baseline_bmi,fitness_level,goal_set,goal_type,goal_value
+P001,27,Male,1.9,84.0,23.4,High,True,Calories Burned,2689.1
+P002,45,Male,1.91,80.0,22.0,High,False,None,
+P003,42,Female,1.62,76.5,29.0,Low,True,Daily Steps,8669.5
+P004,36,Female,1.61,69.5,26.8,Moderate,True,Daily Steps,10562.6
+P005,36,Female,1.58,63.6,25.3,Low,True,Daily Steps,7376.9
+P006,47,Female,1.57,64.4,26.2,Moderate,False,None,
+P007,27,Male,1.78,97.1,30.5,Low,False,None,
+P008,43,Female,1.58,63.1,25.4,Moderate,True,Calories Burned,2638.6
+P009,30,Male,1.78,85.7,27.0,Moderate,True,Active Minutes,48.4
+P010,27,Male,1.7,74.6,25.8,Moderate,True,Active Minutes,43.1
+P011,38,Female,1.63,67.3,25.2,Low,True,Calories Burned,2134.8
+P012,50,Male,1.61,57.7,22.1,High,False,None,
+P013,44,Female,1.68,77.4,27.3,Low,True,Calories Burned,1842.6
+P014,44,Female,1.67,65.1,23.2,Low,True,Distance (km),5.5
+P015,43,Female,1.62,64.8,24.7,Moderate,False,None,
+P016,45,Female,1.59,59.2,23.4,Moderate,True,Distance (km),7.2
+P017,38,Female,1.66,58.4,21.1,High,True,Calories Burned,2884.1
+P018,28,Male,1.69,62.8,21.9,High,True,Active Minutes,55.1
+P019,46,Male,1.78,89.0,28.0,Moderate,True,Daily Steps,10794.1
+P020,36,Male,1.73,61.4,20.5,High,True,Calories Burned,2536.2
+P021,38,Male,1.74,77.9,25.7,Low,True,Daily Steps,7585.3
+P022,34,Male,1.77,85.5,27.2,Moderate,True,Distance (km),6.5
+P023,29,Female,1.64,79.7,29.6,Low,True,Distance (km),5.3
+P024,49,Male,1.74,57.5,19.1,High,True,Daily Steps,11275.7
+P025,45,Male,1.83,112.6,33.5,Low,True,Distance (km),5.4
+P026,41,Male,1.68,80.6,28.6,Low,True,Daily Steps,8250.0
+P027,35,Male,1.76,76.3,24.6,Moderate,True,Calories Burned,2177.4
+P028,46,Female,1.65,59.9,22.0,High,True,Daily Steps,10813.0
+P029,39,Female,1.5,50.3,22.3,High,False,None,
+P030,36,Female,1.56,59.3,24.3,Moderate,False,None,
+P031,36,Female,1.61,52.9,20.3,High,True,Calories Burned,2548.9
+P032,30,Male,1.8,65.6,20.2,High,True,Active Minutes,61.3
+P033,27,Female,1.67,68.6,24.5,Moderate,True,Distance (km),7.4
+P034,39,Male,1.75,76.4,25.0,Moderate,True,Distance (km),6.6
+P035,48,Male,1.71,71.5,24.6,Moderate,True,Daily Steps,10698.8
+P036,26,Male,1.79,77.2,24.1,Moderate,True,Calories Burned,2187.5
+P037,47,Female,1.64,60.4,22.3,Moderate,True,Calories Burned,2544.5
+P038,46,Male,1.81,86.3,26.4,Low,True,Active Minutes,32.6
+P039,32,Male,1.84,77.6,23.0,Moderate,True,Calories Burned,2530.6
+P040,41,Female,1.64,72.7,26.9,Low,True,Distance (km),5.2
+P041,29,Male,1.74,64.7,21.4,High,False,None,
+P042,44,Female,1.53,51.3,21.9,Low,True,Distance (km),5.3
+P043,43,Male,1.74,76.9,25.4,Low,False,None,
+P044,34,Male,1.83,78.6,23.6,High,True,Active Minutes,54.5
+P045,26,Male,1.63,57.8,21.7,Low,False,None,
+P046,50,Female,1.68,70.7,25.1,Low,False,None,
+P047,36,Male,1.62,69.7,26.6,Moderate,False,None,
+P048,48,Male,1.66,54.0,19.7,High,False,None,
+P049,42,Male,1.86,104.3,30.3,Low,False,None,
+P050,45,Female,1.6,56.8,22.3,Moderate,True,Daily Steps,9403.6
+P051,44,Female,1.71,73.4,25.2,Moderate,False,None,
+P052,30,Female,1.59,61.8,24.4,High,True,Daily Steps,11099.8
+P053,34,Male,1.55,65.3,27.1,Moderate,True,Daily Steps,10009.1
+P054,37,Female,1.66,69.3,25.1,Low,True,Distance (km),5.2
+P055,37,Female,1.68,70.8,25.2,Low,False,None,
+P056,26,Female,1.66,79.3,28.9,Low,True,Active Minutes,30.8
+P057,39,Male,1.72,79.8,26.9,Low,True,Calories Burned,2140.5
+P058,29,Male,1.79,80.1,24.9,Moderate,True,Active Minutes,41.9
+P059,44,Male,1.65,74.8,27.5,Low,True,Daily Steps,8375.4
+P060,42,Female,1.64,63.1,23.3,Moderate,True,Calories Burned,2252.7
+P061,48,Male,1.77,78.1,25.0,Moderate,True,Daily Steps,9541.5
+P062,44,Male,1.75,72.3,23.5,Moderate,True,Calories Burned,2500.8
+P063,34,Male,1.82,88.9,27.0,Low,True,Distance (km),5.5
+P064,50,Female,1.55,57.3,23.7,High,True,Distance (km),9.2
+P065,35,Male,1.81,77.4,23.7,Moderate,True,Active Minutes,41.0
+P066,33,Female,1.64,67.6,25.0,Moderate,True,Distance (km),7.2
+P067,48,Female,1.59,67.6,26.6,Low,True,Calories Burned,1816.9
+P068,34,Female,1.72,73.5,24.9,Low,True,Active Minutes,32.3
+P069,26,Male,1.69,61.6,21.5,High,True,Daily Steps,12503.0
+P070,37,Female,1.63,72.9,27.4,Moderate,False,None,
+P071,45,Female,1.65,60.1,22.2,Moderate,False,None,
+P072,29,Female,1.59,51.4,20.3,Moderate,True,Distance (km),6.5
+P073,37,Male,1.86,71.7,20.8,Moderate,True,Daily Steps,9183.4
+P074,28,Male,1.73,74.2,24.8,High,True,Calories Burned,2622.8
+P075,42,Male,1.86,97.8,28.2,Low,False,None,
+P076,37,Female,1.71,66.3,22.6,High,True,Distance (km),9.9
+P077,33,Male,1.78,77.9,24.6,Low,False,None,
+P078,30,Male,1.87,66.9,19.2,Moderate,True,Daily Steps,9917.1
+P079,39,Male,1.73,76.1,25.3,Moderate,True,Active Minutes,47.6
+P080,42,Female,1.78,87.9,27.6,Low,True,Distance (km),5.1
+P081,49,Male,1.73,86.3,28.9,Low,False,None,
+P082,36,Female,1.51,54.4,23.7,Moderate,True,Calories Burned,2434.8
+P083,29,Female,1.61,58.3,22.5,High,True,Daily Steps,11148.3
+P084,46,Male,1.8,74.0,22.7,Moderate,False,None,
+P085,41,Female,1.62,53.1,20.3,High,True,Active Minutes,65.4
+P086,43,Male,1.84,74.1,21.9,High,True,Calories Burned,2688.8
+P087,27,Female,1.66,78.1,28.2,Moderate,True,Daily Steps,10156.0
+P088,33,Female,1.66,65.8,23.8,Moderate,False,None,
+P089,44,Female,1.54,71.2,30.0,Low,True,Calories Burned,2079.9
+P090,46,Male,1.7,88.3,30.5,Low,False,None,
+P091,36,Female,1.75,69.9,22.7,High,True,Daily Steps,12358.2
+P092,45,Female,1.64,65.4,24.3,Moderate,False,None,
+P093,46,Female,1.61,71.9,27.7,Low,False,None,
+P094,35,Female,1.62,66.3,25.2,Moderate,True,Distance (km),7.6
+P095,48,Male,1.77,97.1,30.9,Moderate,False,None,
+P096,32,Male,1.69,52.8,18.5,High,False,None,
+P097,31,Male,1.81,75.6,23.1,Moderate,False,None,
+P098,42,Female,1.61,68.2,26.4,Moderate,True,Active Minutes,41.8
+P099,41,Male,1.79,75.9,23.8,Moderate,True,Active Minutes,45.1
+P100,28,Male,1.8,76.1,23.5,Moderate,True,Active Minutes,44.1
