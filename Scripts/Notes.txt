@@ -25,3 +25,28 @@ What is important:
 - Health Metrics
 - Timelines
 
+
+
+
+Strengthen the analysis
+
+Add statistical tests — your findings need p-values and effect sizes (Cohen's d) to be credible, especially for the sales use case. At minimum: paired t-test (pre vs post within goal-setters) and independent t-test (goal-setters vs control post-period).
+Difference-in-differences — compare the change in goal-setters against the change in controls, not just absolute values. This controls for natural trends and is more defensible.
+Adherence over time — does the improvement hold through week 12 or fade after week 4? This is critical for the sales pitch (sustained vs temporary change).
+Segmentation worth adding
+
+Which goal type (steps / calories / active minutes / distance) produces the best health outcomes?
+Does age group or fitness level moderate the effect? (e.g., do low-fitness users benefit more?)
+Do users who hit their goal more often show better outcomes? (dose-response)
+Gaps to flag
+
+Blood pressure is listed as a key outcome but isn't in the dataset — worth noting as a limitation
+Your method is better described as quasi-experimental (you have a comparison group), not non-experimental — this actually strengthens your credibility
+Selection bias — goal-setters may already be more motivated; worth acknowledging as a caveat
+For the sales team specifically
+
+Lead with a headline number: "Goal-setters walked X,000 more steps/day and reduced resting HR by X bpm"
+Include confidence intervals alongside means
+A before/after chart per metric is more compelling than tables for a sales deck
+Want me to add the statistical tests and segmentation cells to the notebook?
+
