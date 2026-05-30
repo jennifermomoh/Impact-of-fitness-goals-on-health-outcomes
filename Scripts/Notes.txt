@@ -1,0 +1,27 @@
+Study Questions:
+1. Does setting fitness goals in Google Fit positively impact health outcomes?
+2. How do user behaviours compare to their pre-goal baseline?
+
+Study Goals:
+1. To undererstand how goal setting impacts usrs health outcomes and why
+2. To provide strong backing for the sales team to pitch product to customers, especially on the importance of using the 
+goal setting features
+
+
+Key Metrics:
+Goals: calories burned, active minutes, step count, weight
+Outcomes: weight, blood pressure, heart rate, sleep scores
+
+Hypotheses:
+1. Goal-setting increases motivation and adherence, leading to improved outcomes.
+2. Users will show higher activity levels and consistency post-goal setting.
+
+
+Methods:
+- non experimental
+
+
+What is important:
+- Health Metrics
+- Timelines
+
